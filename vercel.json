@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/micro-quiz",
+      "schedule": "0 */2 * * *"
+    }
+  ]
+}
